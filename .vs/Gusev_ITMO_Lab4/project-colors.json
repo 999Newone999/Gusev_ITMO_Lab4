@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3b84e2b5-e63c-4986-a3a8-3339cb608c97": {
+      "ProjectGuid": "3b84e2b5-e63c-4986-a3a8-3339cb608c97",
+      "DisplayName": "Gusev_ITMO_Lab4",
+      "ColorIndex": 0
+    },
+    "ec9fbb22-d695-499f-86ac-9a912058c68b": {
+      "ProjectGuid": "ec9fbb22-d695-499f-86ac-9a912058c68b",
+      "DisplayName": "Gusev_ITMO_Lab4_2",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
